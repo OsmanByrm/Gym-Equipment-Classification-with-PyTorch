@@ -4,6 +4,9 @@
 
 Welcome to the **Gym Equipment Classification** project! This project combines deep learning with fitness, using images of gym equipment to train a model that can automatically recognize different types of gear. Built with the power of **PyTorch** and some serious data magic, this classifier can help in applications like fitness apps to recommend workouts based on recognized equipment!
 
+![image](https://github.com/user-attachments/assets/6d12fe93-c867-4a01-bb43-a9d7b7b675e9)
+
+
 [![Kaggle](https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png)](https://www.kaggle.com/osman0)
 
 ## 🚀 Overview
